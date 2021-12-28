@@ -9,7 +9,6 @@
 # 个人信息
 
  - 杨明昆/男/1992
- - 本科/西安欧亚学院软件工程专业
  - 工作年限：15年毕业-至今
  - [Coding](https://dev.tencent.com/u/Jason_Yang187).
  - [Github](https://github.com/yangmingkun187).
